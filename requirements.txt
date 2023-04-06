@@ -1,0 +1,3 @@
+boto3==1.26.107
+schedule==1.1.0
+uptime==3.0.1
