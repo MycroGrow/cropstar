@@ -67,7 +67,7 @@ Usage
 Once you have the system set up and configured, you can start it by running the main.py file:
 
 ```python
-python main.py
+python cropstar.py
 ```
 The system will automatically turn on and off the irrigation system according to the schedule you configured in the config.ini file.
 
